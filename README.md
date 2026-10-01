@@ -47,7 +47,7 @@ Both `data/` and `reports/` are in `.gitignore`. Never commit them, since they c
 
 ### 1.1.0 - 2026-10-01
 - Renamed to **Tiny Amazon Scout**; added `start.bat`, README.
-- Currency now shown with a space (`INR 331.00`).
+- Currency now shown with a space (`[Symbol] 331.00`).
 - Scheduler options: weekdays, retry count and delay, wake PC, notify only on changes.
 - Free/paid delivery column in the UI and report.
 - Automatic provider fallback when a free quota is used up.
